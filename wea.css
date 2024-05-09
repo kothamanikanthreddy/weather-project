@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    display:flex;
+    justify-content:center;
+    background-color: #222;
+}
+.container{
+    height:700px;
+    width:700px;
+    border:2px solid black;
+    text-align: center;
+    background-color:rgb(220, 196, 200);
+    padding:50px;
+}
+.form{
+    display:flex;
+    margin-top:100px;
+    margin-left:100px;
+}
+.submit{
+    display:flex;
+    margin-top:100px;
+    margin-left:100px;
+    cursor: pointer;
+    background-color: black;
+    color:white;
+}
+.city{
+    display:flex;
+    margin-top:100px;
+    margin-left:250px;
+}
+.weather{
+    display:flex;
+    margin-left:250px;
+    margin-top:90px;
+}
+.wea{
+    display:flex;
+    margin-left:250px;
+    margin-top:90px;
+}
+.tap{
+    display:flex;
+    margin-left:250px;
+    margin-top:90px;
+}
+.bat{
+    display:flex;
+    margin-left:250px;
+    margin-top:90px;
+}
+.hat{
+    display:flex;
+    margin-left:250px;
+    margin-top:90px;
+}
